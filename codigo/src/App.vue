@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Cadastro</router-link> |
+      <router-link to="/cadastro">Cadastro</router-link> |
       <router-link to="/about">Sorteio</router-link>
     </div>
     <router-view/>
