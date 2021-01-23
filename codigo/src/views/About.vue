@@ -2,7 +2,7 @@
   <div class="about">
     <img src="../assets/Sorteio+no+instagram.jpg"  width="600"/>
     <h1>Essa é a página de sorteios</h1>
-    <button>Relaizar sorteio</button>
+    <button>Realizar sorteio</button>
   </div>
 </template>
 
